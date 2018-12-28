@@ -1,0 +1,2 @@
+﻿  primegen.cpp
+c:\users\iwethen\documents\visual studio 2015\projects\primegen\primegen\primegen.cpp(9): error C2148: total size of array must not exceed 0x7fffffff bytes
